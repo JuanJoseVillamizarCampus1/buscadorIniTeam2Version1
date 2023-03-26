@@ -9,6 +9,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "html",
     detalle: "Camper creador de paginas",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
 
   {
@@ -21,6 +23,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "javascript",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
   {
     imagen: "camiloC.jpg",
@@ -32,6 +36,8 @@ const campers = [
     especialidad: "frontEnd",
     expertoTecnologia: "php",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
   {
     imagen: "Edwing.jpg",
@@ -43,6 +49,8 @@ const campers = [
     especialidad: "frontEnd",
     expertoTecnologia: "javascript",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
   {
     imagen: "esteban.jpeg",
@@ -54,6 +62,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "html",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
   {
     imagen: "jairo.jpg",
@@ -65,6 +75,8 @@ const campers = [
     especialidad: "frontEnd",
     expertoTecnologia: "javascript",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
   {
     imagen: "javierAndresNunez.jpeg",
@@ -76,6 +88,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "html",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
   {
     imagen: "pabon.jpg",
@@ -87,6 +101,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "javascript",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
   {
     imagen: "joel.jpg",
@@ -98,6 +114,8 @@ const campers = [
     especialidad: "fullStack",
     expertoTecnologia: "html",
     detalle: "Creador de red Mundial Facebook",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
   {
     imagen: "camper-anonimo1.jpg",
@@ -109,6 +127,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "php",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
   {
     imagen: "jose.jpeg",
@@ -120,6 +140,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "html",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
   {
     imagen: "sepulveda.jpg",
@@ -131,6 +153,8 @@ const campers = [
     especialidad: "fullStack",
     expertoTecnologia: "javascript",
     detalle: "Programador Wed en Space",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
   {
     imagen: "juan.jpeg",
@@ -142,6 +166,8 @@ const campers = [
     especialidad: "fullStack",
     expertoTecnologia: "node",
     detalle: "Programador Wed creador de start up",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   },
   {
     imagen: "villamizar.jpg",
@@ -153,6 +179,8 @@ const campers = [
     especialidad: "fullStack",
     expertoTecnologia: "node",
     detalle: "No renuncies a tus sueños, sigue durmiendo",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "julianV.jpg",
@@ -164,6 +192,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "javascript",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "justin.jpg",
@@ -175,6 +205,8 @@ const campers = [
     especialidad: "frontEnd",
     expertoTecnologia: "mongo",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "maicol.jpg",
@@ -186,6 +218,8 @@ const campers = [
     especialidad: "fullStack",
     expertoTecnologia: "html",
     detalle: "Solo se que nada se",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "marcela.jpg",
@@ -197,6 +231,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "javascript",
     detalle: "Nada es por casualidad",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "camper-anonimo3.jpg",
@@ -208,6 +244,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "html",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "camiloO.jpg",
@@ -219,6 +257,8 @@ const campers = [
     especialidad: "fullStack",
     expertoTecnologia: "asp",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "machado.jpg",
@@ -230,6 +270,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "vue",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "oscar.jpg",
@@ -241,6 +283,8 @@ const campers = [
     especialidad: "frontEnd",
     expertoTecnologia: "javascript",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "costeño.jpg",
@@ -252,6 +296,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "html",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "camper-anonimo2.jpg",
@@ -263,6 +309,8 @@ const campers = [
     especialidad: "fullStack",
     expertoTecnologia: "node",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "ricardo.jpg",
@@ -274,6 +322,8 @@ const campers = [
     especialidad: "frontEnd",
     expertoTecnologia: "javascript",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "issac.jpg",
@@ -285,6 +335,8 @@ const campers = [
     especialidad: "backEnd",
     expertoTecnologia: "asp",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "zuluaga.jpg",
@@ -296,6 +348,8 @@ const campers = [
     especialidad: "frontEnd",
     expertoTecnologia: "php",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "sayed.jpg",
@@ -307,6 +361,8 @@ const campers = [
     especialidad: "fullStack",
     expertoTecnologia: "html",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "sergio.jpg",
@@ -318,6 +374,8 @@ const campers = [
     especialidad: "frontEnd",
     expertoTecnologia: "javascript",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "valentinaN.jpg",
@@ -329,6 +387,8 @@ const campers = [
     especialidad: "frontEnd",
     expertoTecnologia: "javascript",
     detalle: "Creador de paginas web",
+    telefono:123456789,
+    direccion:"Enrrique Segoviano"
   }, 
   {
     imagen: "camper-anonimo2.jpg",
@@ -340,5 +400,7 @@ const campers = [
     especialidad: "fullStack",
     expertoTecnologia: "html",
     detalle: "Creador de paginas web",
+    direccion:"Enrrique Segoviano",
+    telefono:123456789,
   }
 ];
